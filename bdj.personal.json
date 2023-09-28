@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "64d1284b6077c65a99cfc73a"
+  },
+  "pid": 201,
+  "name": "John Doe",
+  "address": "789 Oak St",
+  "phone": "555-9876",
+  "expSalary": 100000,
+  "education": {
+    "ssc": "A+",
+    "hsc": "A-",
+    "BSC": "A"
+  },
+  "passYear": {
+    "ssc": 2002,
+    "hsc": 2004,
+    "bsc": 2008
+  }
+},
+{
+  "_id": {
+    "$oid": "64d1284b6077c65a99cfc73b"
+  },
+  "pid": 202,
+  "name": "Jane Smith",
+  "address": "123 Elm St",
+  "phone": "555-1234",
+  "expSalary": 90000,
+  "education": {
+    "ssc": "B",
+    "hsc": "B+",
+    "BSC": "A-"
+  },
+  "passYear": {
+    "ssc": 2005,
+    "hsc": 2007,
+    "bsc": 2011
+  }
+},
+{
+  "_id": {
+    "$oid": "64d1284b6077c65a99cfc73c"
+  },
+  "pid": 203,
+  "name": "Robert Johnson",
+  "address": "456 Maple Rd",
+  "phone": "555-5678",
+  "expSalary": 85000,
+  "education": {
+    "ssc": "A-",
+    "hsc": "A",
+    "BSC": "B+"
+  },
+  "passYear": {
+    "ssc": 2004,
+    "hsc": 2006,
+    "bsc": 2010
+  }
+},
+{
+  "_id": {
+    "$oid": "64d1284b6077c65a99cfc73d"
+  },
+  "pid": 204,
+  "name": "Emily Davis",
+  "address": "789 Birch Ave",
+  "phone": "555-9876",
+  "expSalary": 95000,
+  "education": {
+    "ssc": "A",
+    "hsc": "A+",
+    "BSC": "A"
+  },
+  "passYear": {
+    "ssc": 2003,
+    "hsc": 2005,
+    "bsc": 2009
+  }
+},
+{
+  "_id": {
+    "$oid": "64d1284b6077c65a99cfc73e"
+  },
+  "pid": 205,
+  "name": "Michael Brown",
+  "address": "321 Oak St",
+  "phone": "555-5432",
+  "expSalary": 80000,
+  "education": {
+    "ssc": "B+",
+    "hsc": "B",
+    "BSC": "B"
+  },
+  "passYear": {
+    "ssc": 2006,
+    "hsc": 2008,
+    "bsc": 2012
+  }
+},
+{
+  "_id": {
+    "$oid": "64d1284b6077c65a99cfc73f"
+  },
+  "pid": 206,
+  "name": "Sarah Johnson",
+  "address": "654 Elm Rd",
+  "phone": "555-2345",
+  "expSalary": 110000,
+  "education": {
+    "ssc": "A+",
+    "hsc": "A+",
+    "BSC": "A"
+  },
+  "passYear": {
+    "ssc": 2001,
+    "hsc": 2003,
+    "bsc": 2007
+  }
+},
+{
+  "_id": {
+    "$oid": "64d1284b6077c65a99cfc740"
+  },
+  "pid": 207,
+  "name": "David Wilson",
+  "address": "987 Maple St",
+  "phone": "555-6789",
+  "expSalary": 120000,
+  "education": {
+    "ssc": "A",
+    "hsc": "A",
+    "BSC": "A+"
+  },
+  "passYear": {
+    "ssc": 2002,
+    "hsc": 2004,
+    "bsc": 2008
+  }
+},
+{
+  "_id": {
+    "$oid": "64d1284b6077c65a99cfc741"
+  },
+  "pid": 208,
+  "name": "Jessica Martinez",
+  "address": "876 Pine Ave",
+  "phone": "555-7890",
+  "expSalary": 85000,
+  "education": {
+    "ssc": "A-",
+    "hsc": "B",
+    "BSC": "B"
+  },
+  "passYear": {
+    "ssc": 2005,
+    "hsc": 2007,
+    "bsc": 2011
+  }
+},
+{
+  "_id": {
+    "$oid": "64d1284b6077c65a99cfc742"
+  },
+  "pid": 209,
+  "name": "Christopher Smith",
+  "address": "543 Oak St",
+  "phone": "555-2345",
+  "expSalary": 95000,
+  "education": {
+    "ssc": "B+",
+    "hsc": "A-",
+    "BSC": "A-"
+  },
+  "passYear": {
+    "ssc": 2003,
+    "hsc": 2005,
+    "bsc": 2009
+  }
+},
+{
+  "_id": {
+    "$oid": "64d1284b6077c65a99cfc743"
+  },
+  "pid": 210,
+  "name": "Jennifer Brown",
+  "address": "234 Elm Rd",
+  "phone": "555-4567",
+  "expSalary": 105000,
+  "education": {
+    "ssc": "A",
+    "hsc": "A+",
+    "BSC": "A"
+  },
+  "passYear": {
+    "ssc": 2004,
+    "hsc": 2006,
+    "bsc": 2010
+  }
+}]

@@ -1,0 +1,11 @@
+============================= Searver link =======================
+
+
+mongodb://bipul:bipul@172.16.4.160:27017/?authMechanism=SCRAM-SHA-1
+
+
+====================== mongo db for dot net ====================
+
+
+https://www.mongodb.com/docs/drivers/csharp/current/
+

@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "64d126f26077c65a99cfc72a"
+  },
+  "cpid": 101,
+  "name": "TechCo",
+  "address": "123 Main St",
+  "location": "Cityville",
+  "phone": "555-1234"
+},
+{
+  "_id": {
+    "$oid": "64d126f26077c65a99cfc72b"
+  },
+  "cpid": 102,
+  "name": "DataCorp",
+  "address": "456 Elm St",
+  "location": "Townsville",
+  "phone": "555-5678"
+},
+{
+  "_id": {
+    "$oid": "64d126f26077c65a99cfc72c"
+  },
+  "cpid": 103,
+  "name": "InnovateTech",
+  "address": "789 Oak St",
+  "location": "Innovation City",
+  "phone": "555-7890"
+},
+{
+  "_id": {
+    "$oid": "64d126f26077c65a99cfc72d"
+  },
+  "cpid": 104,
+  "name": "EcoProducts",
+  "address": "987 Pine St",
+  "location": "Greenville",
+  "phone": "555-4321"
+},
+{
+  "_id": {
+    "$oid": "64d126f26077c65a99cfc72e"
+  },
+  "cpid": 105,
+  "name": "GlobalTech",
+  "address": "654 Maple St",
+  "location": "Worldville",
+  "phone": "555-9876"
+},
+{
+  "_id": {
+    "$oid": "64d126f26077c65a99cfc72f"
+  },
+  "cpid": 106,
+  "name": "Fashionista",
+  "address": "321 Silk Rd",
+  "location": "Styleville",
+  "phone": "555-5432"
+},
+{
+  "_id": {
+    "$oid": "64d126f26077c65a99cfc730"
+  },
+  "cpid": 107,
+  "name": "HealthWell",
+  "address": "876 Wellness Ave",
+  "location": "Wellness Town",
+  "phone": "555-1111"
+},
+{
+  "_id": {
+    "$oid": "64d126f26077c65a99cfc731"
+  },
+  "cpid": 108,
+  "name": "TechSolutions",
+  "address": "234 Tech St",
+  "location": "Techville",
+  "phone": "555-2222"
+},
+{
+  "_id": {
+    "$oid": "64d126f26077c65a99cfc732"
+  },
+  "cpid": 109,
+  "name": "FoodDelight",
+  "address": "543 Yummy Rd",
+  "location": "Foodtopia",
+  "phone": "555-3333"
+},
+{
+  "_id": {
+    "$oid": "64d126f26077c65a99cfc733"
+  },
+  "cpid": 110,
+  "name": "GreenEnergy",
+  "address": "765 Solar St",
+  "location": "EcoCity",
+  "phone": "555-4444"
+}]
